@@ -25,8 +25,34 @@ const Layout2 = function () {
             <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "center", borderRadius: "8px", marginLeft: "5px" }}>Historia</Grid>
             <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "center", borderRadius: "8px", marginLeft: "5px" }}>Musica infantil</Grid>
             <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "center", borderRadius: "8px", marginLeft: "5px" }}>Jogos de Animação</Grid>
-
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Inicio</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Shorts</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Incrições</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Biblioteca</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Historico</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Em Alta</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Musica</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Filmes</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Jogos</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Noticias</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Esportes</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>Aprender</Grid>
+            <Grid container item sx={{ lineHeight: 2.5 }}></Grid>
+            <Grid item width={80} sx={{ background: "#C7C7C7", color: "#4D4D4D", textAlign: "left", borderRadius: "8px", marginLeft: "5px" }}>+ Procurar Canais</Grid>
         </Grid>
     </Grid>
 }
 export default Layout2;
+
